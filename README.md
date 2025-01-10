@@ -1,8 +1,9 @@
 # Electric-Vehicle-Analysis-with-Power-BI
 Analyzed performance of Electric Vehicles, providing insights on energy efficiency and operations optimization.
-## KPI'S
 
-  1.Total Vehicles by Model Year (From 2010 Onwards):
+ ## KPI'S
+
+1.Total Vehicles by Model Year (From 2010 Onwards):
 
     Visualization: Area Chart
   
