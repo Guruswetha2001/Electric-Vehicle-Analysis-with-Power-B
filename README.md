@@ -15,6 +15,8 @@ Analyzed performance of Electric Vehicles, providing insights on energy efficien
  
  6. -<a href="https://github.com/Guruswetha2001/Electric-Vehicle-Analysis-with-Power-B/blob/main/D.Guru%20Swetha%20Electric%20Vehicle%20Dashboard.pbix">Electric vehicle Dashboard</a>
 
+7. -<a href= "https://github.com/Guruswetha2001/Electric-Vehicle-Analysis-with-Power-B/blob/main/Electric_vehicle_Dashboard.png">Electric vehicle screenshort</a>
+
 
 
    
