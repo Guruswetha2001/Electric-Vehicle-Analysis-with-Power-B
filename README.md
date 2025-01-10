@@ -5,7 +5,7 @@ Analyzed performance of Electric Vehicles, providing insights on energy efficien
 
  1. Total Vehicles by Model Year (From 2010 Onwards):
 
-    - Visualization: Area Chart
+     - Visualization: Area Chart
   
  2. Total Vehicles by State:
 
