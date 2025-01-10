@@ -3,24 +3,16 @@ Analyzed performance of Electric Vehicles, providing insights on energy efficien
 
  ## KPI'S
 
- 1. Total Vehicles by Model Year (From 2010 Onwards):
-
-     - Visualization: Area Chart
+ 1. Total Vehicles by Model Year (From 2010 Onwards) 
   
- 2. Total Vehicles by State:
+ 2. Total Vehicles by State
+   
+ 3. Top 10 Total Vehicles by Make
 
-   - Visualization: Map Chart (Shape Map) 
+ 4. Total Vehicles by CAFV (Clean Alternative Fuel Vehicle) Eligibility
 
- 3. Top 10 Total Vehicles by Make:
+ 5. Top 10 Total Vehicles by Model
 
-   - Visualization: Bar Chart 
 
- 4. Total Vehicles by CAFV (Clean Alternative Fuel Vehicle) Eligibility:
-
-   - Visualization: Pie Chart 
-
-5. Top 10 Total Vehicles by Model:
-
-  - Visualization: Tree map
 
    
